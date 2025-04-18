@@ -18,6 +18,3 @@ A C# (.NET 8) application for monitoring CPU temperature using MQTT protocol.
 - Client sends temperature every 10 seconds or on server request.
 - Server displays received data and sends requests via Enter key.
 - Press Ctrl+C to gracefully stop the application.
-
-## License
-MIT
