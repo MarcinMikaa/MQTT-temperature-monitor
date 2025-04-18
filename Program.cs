@@ -1,4 +1,6 @@
-﻿namespace MqttTemperatureMonitor
+﻿using MqttTemperatureMonitor.Services;
+
+namespace MqttTemperatureMonitor
 {
     internal class Program
     {
